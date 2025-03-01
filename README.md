@@ -3,7 +3,7 @@
 This package integrates [Codac.io](https://codac.io/) Interval Analysis with ROS2 for real-time contraction on robotic systems.
 
 <div style="text-align: center;">
-Example of real-time localisation using an online ROS2 interval contractor.
+Example of real-time localisation using an online ROS2 interval contractor:
 <img src="result.png" alt="image" style="max-height: 300px;">
 <br> <a href="#run-the-online-contractor-example">You can try it here after installation</a> 
 </div>
