@@ -20,8 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'publisher_node = interval_analysis_examples.publisher_node:main',
-            'subscriber_node = interval_analysis_examples.subscriber_node:main',
+            'simple_publisher = interval_analysis_examples.simple_publisher_node:main',
+            'simple_subscriber = interval_analysis_examples.simple_subscriber_node:main',
+            'localisation_range_bearing_deriv = interval_analysis_examples.localisation_range_bearing_deriv_node:main',
         ],
     },
 )
